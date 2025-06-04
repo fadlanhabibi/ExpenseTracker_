@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExpenseTracker</string>
+    <string name="transaction_icon_description">Ikon transaksi</string>
+    <string name="action_button_description">Lihat detail</string>
+</resources>
